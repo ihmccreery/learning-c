@@ -12,6 +12,9 @@
 *.so.*
 *.dylib
 
+# Debug symbols
+*.dSYM
+
 # Executables
 *.exe
 *.out
